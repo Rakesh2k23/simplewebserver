@@ -65,9 +65,10 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-<<<<<<< HEAD
-![Alt text](<Screenshot 2023-11-01 000243.png>)
-![Alt text](<Screenshot 2023-11-01 124511.png>)
+![Screenshot 2023-11-01 000243](https://github.com/Rakesh2k23/simplewebserver/assets/141472158/8c7e5d38-dc9d-4e85-9784-42e26831beef)
+
+![image](https://github.com/Rakesh2k23/simplewebserver/assets/141472158/a43278d1-7ab2-428b-81eb-3d7179ce418a)
+
 
 
 ## RESULT:
